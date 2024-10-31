@@ -10,7 +10,7 @@
 .central{
     display: grid;
     height: 40vh;
-    grid-template-rows: 100pxs;
+    grid-template-rows: 100px;
 }
 
 main{
