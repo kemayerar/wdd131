@@ -35,7 +35,7 @@ nav{
 nav a {
     justify-content: center;
     font-size: large;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ main {
     border-radius: 25px;
     height: auto;
     margin: 50px;
-    background-color: gray;
+    background-color: #FFFFFF;
 
 }
 
